@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ship_Steampunk
+* source:	https://sketchfab.com/3d-models/ship-steampunk-9f07b3371d6f4807b149aee015f73b3d
+* author:	Cyril Limoges Athiel (https://sketchfab.com/athiel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ship_Steampunk" (https://sketchfab.com/3d-models/ship-steampunk-9f07b3371d6f4807b149aee015f73b3d) by Cyril Limoges Athiel (https://sketchfab.com/athiel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
